@@ -1,6 +1,5 @@
 # James Moorcroft
 
-**Email:** james.moorcroft25@gmail.com / jmoorcroft@calgary.ca  
 **LinkedIn:** [linkedin.com/in/james-moorcroft](https://linkedin.com/in/james-moorcroft)
 
 ---
