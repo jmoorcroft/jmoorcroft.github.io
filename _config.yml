@@ -1,9 +1,8 @@
 title: "James Moorcroft Resume"
-description: "Hosted Markdown resume via GitHub Pages"
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-slate
-markdown: kramdown
+description: "City of Calgary Resume and Experience"
 author: James Moorcroft
 url: "https://jmoorcroft.github.io/resume"
+
+theme: jekyll-theme-midnight
+markdown: kramdown
 
