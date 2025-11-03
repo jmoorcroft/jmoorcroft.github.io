@@ -1,9 +1,6 @@
 # James Moorcroft
 
-**Home:** 403.760.4931  
-**Work:** 403.312.7501  
 **Email:** james.moorcroft25@gmail.com / jmoorcroft@calgary.ca  
-**Employee ID:** 178187  
 **LinkedIn:** [linkedin.com/in/james-moorcroft](https://linkedin.com/in/james-moorcroft)
 
 ---
